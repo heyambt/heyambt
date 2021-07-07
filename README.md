@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heyambt
+- 👋 Hi, I’m Heyam(Hiam).
 - 👀 I’m interested in web design and development.
 - 🌱 I’m currently a junior UX designer intern at Freshfind.
 - 📫 How to reach me: email me at hiam.bt@gmail.com
